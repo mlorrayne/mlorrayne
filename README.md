@@ -9,7 +9,7 @@ Sou desenvolvedora de software com experiência em desenvolvimento fullstack, co
 
 Atualmente atuo no mercado financeiro, trabalhando com sistemas críticos e aplicações que exigem confiabilidade, estabilidade e integração entre serviços.
 
-Tenho experiência com desenvolvimento utilizando Java, Spring Boot, .NET, Angular, mensageria e bancos de dados relacionais, além de interesse constante em arquitetura de software, microsserviços e engenharia de software.
+Tenho experiência com desenvolvimento utilizando Java, Spring Boot, .NET, Angular e bancos de dados relacionais, além de interesse constante em arquitetura de software, microsserviços e engenharia de software.
 
 ---
 
@@ -26,11 +26,11 @@ Tenho experiência com desenvolvimento utilizando Java, Spring Boot, .NET, Angul
 ## 🧠 Atualmente estudando
 
 - Microsserviços
-- Arquitetura orientada a eventos
-- Mensageria com RabbitMQ/Kafka
+- Arquitetura de software
 - CI/CD com GitHub Actions
 - Cloud e deploy com AWS
 - Observabilidade e boas práticas de backend
+- Testes e qualidade de software
 
 ---
 
@@ -51,7 +51,6 @@ Tenho experiência com desenvolvimento utilizando Java, Spring Boot, .NET, Angul
 Este perfil reúne projetos voltados para:
 - backend moderno;
 - arquitetura de microsserviços;
-- mensageria;
 - aplicações fullstack;
 - boas práticas de engenharia de software;
 - testes e qualidade de código.
