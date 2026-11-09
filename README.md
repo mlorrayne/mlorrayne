@@ -1,83 +1,46 @@
+# Olá, eu sou a Lorrayne! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Lorrayne%20Moura&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Enterprise%20Applications&descAlignY=58&descSize=18" />
-</p>
+### Backend Developer | .NET & Java | Financial Systems
 
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+Sou desenvolvedora de software com experiência em desenvolvimento, manutenção e evolução de aplicações corporativas, especialmente no setor financeiro.
 
-Sou desenvolvedora de software com experiência em desenvolvimento fullstack, com foco principal em backend e aplicações corporativas.
+Atualmente, atuo no **Banco PAN/BTG**, trabalhando com **C#/.NET 8, modernização e sustentação de sistemas legados**, além de iniciar minha jornada com **AWS e computação em nuvem**.
 
-Atualmente atuo no mercado financeiro, trabalhando com sistemas críticos e aplicações que exigem confiabilidade, estabilidade e integração entre serviços.
+Minha trajetória inclui experiências em instituições financeiras como B3 e Bradesco, atuando com tecnologias Java, Spring Boot, .NET, APIs REST, bancos de dados relacionais e integração entre sistemas.
 
-Tenho experiência com desenvolvimento utilizando Java, Spring Boot, .NET, Angular e bancos de dados relacionais, além de interesse constante em arquitetura de software, microsserviços e engenharia de software.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,postgres,docker,git,github,aws,linux" />
-
-</div>
+Tenho interesse especial em engenharia de software, arquitetura backend, modernização de aplicações, qualidade de código e soluções escaláveis.
 
 ---
 
-## 🧠 Atualmente estudando
+### 🛠️ Tecnologias e ferramentas
 
-- Microsserviços
-- Arquitetura de software
-- CI/CD com GitHub Actions
-- Cloud e deploy com AWS
-- Observabilidade e boas práticas de backend
-- Testes e qualidade de software
+**Backend:** C#, .NET 8, ASP.NET Core, Java, Spring Boot, APIs REST
 
----
+**Banco de dados:** SQL Server, Oracle, PostgreSQL
 
-## 💼 Principais interesses
+**Frontend:** Angular, TypeScript, HTML, CSS
 
-- Backend Engineering
-- Sistemas distribuídos
-- Arquitetura de software
-- APIs REST
-- Aplicações corporativas
-- Mercado financeiro
-- Integração entre sistemas
+**Qualidade e testes:** NUnit, JUnit, Mockito, SonarQube
 
----
+**Cloud e observabilidade:** AWS (em aprendizado), Splunk, Grafana
 
-## 📌 Objetivo deste GitHub
+**Ferramentas e práticas:** Git, GitHub, Scrum, OpenAPI, integração de sistemas
 
-Este perfil reúne projetos voltados para:
-- backend moderno;
-- arquitetura de microsserviços;
-- aplicações fullstack;
-- boas práticas de engenharia de software;
-- testes e qualidade de código.
+### 🚀 Projetos em destaque
 
-A ideia é construir projetos que simulem cenários reais de aplicações corporativas e sistemas distribuídos.
+- **[AWS — EC2, EBS e S3](https://github.com/mlorrayne/aws-ec2-ebs-s3-bootcamp)** — Estudos de computação em nuvem e documentação de arquitetura AWS.
+- **[Spring Boot Project](https://github.com/mlorrayne/spring-boot-project)** — Desenvolvimento backend com Java e Spring Boot.
+- **[CRUD Tests Example](https://github.com/mlorrayne/crud-tests-example)** — Estudos e implementação de testes automatizados.
+- **[Projeto Integrador III — ALMEM](https://github.com/mlorrayne/PI-III)** — Aplicação web com Django e PostgreSQL.
 
----
+### 📚 Atualmente aprofundando conhecimentos em
 
-## 📫 Contato
+- .NET 8 e arquitetura de aplicações
+- AWS e serviços de computação em nuvem
+- Modernização de sistemas legados
+- Testes automatizados e qualidade de software
+- Arquitetura e boas práticas de desenvolvimento backend
 
-<div>
-<a href="https://www.linkedin.com/in/lorraynemoura/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 📫 Vamos nos conectar?
 
-<a href="mailto:lorraynerpfmoura@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlorrayne&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlorrayne&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/lorraynemoura/) · [GitHub](https://github.com/mlorrayne)
